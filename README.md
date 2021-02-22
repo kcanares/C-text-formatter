@@ -10,11 +10,11 @@ The program:
   - except for a word that's longer than 50 chars - that can go on its own output line longer than 50 chars
 
 # Commands
-• .b– break the current line, so that the next input token starts at the beginning of the next line;
-• .p– leave a blank line and start a new paragraph without altering the margins, with the next input
-token starting the new paragraph;
-• .lnn – alter the left margin from its current value (default initial value of 4) to the new value nn,
-and start a new paragraph;
+• .b– break the current line, so that the next input token starts at the beginning of the next line
+
+• .p– leave a blank line and start a new paragraph without altering the margins, with the next input token starting the new paragraph
+
+• .lnn – alter the left margin from its current value (default initial value of 4) to the new value nn, and start a new paragraph
 • .w nn – alter the width of each line from its current value (default initial value of 50) to the new
 value nn, and start a new paragraph.
 • .c – take the remaining contents of this line and center them within the current output width. If
